@@ -77,7 +77,7 @@ Displays the days of the month as individual cells. Clicking a cell opens the co
 |---|---|
 | **Today** | Saves to the selected date only |
 | **Weekly** | Saves weekly until January of the following year (e.g. Jan 1, 2023 → Jan 29, 2024) |
-| **Every 2 Weeks** | Saves every two weeks until January of the following year — designed for special cases (e.g. first-year ECE labs in Semester 1) |
+| **Every 2 Weeks** | Saves every two weeks until January of the following year — designed for special cases (e.g. university labs) |
 | **Weekly for Semester** | Saves weekly until the end of the current semester (Aug–Jan or Feb–Jun) |
 | **Every 2 Weeks for Semester** | Saves every two weeks until the end of the current semester |
 
